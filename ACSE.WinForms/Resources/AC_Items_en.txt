@@ -3068,7 +3068,15 @@
 0xA012, Villager Signboard
 0xA013, Player (Laying on Side, Soft-locks Game, Seen in Wrong-warp)
 0xA016, Player (Standing, Soft-locks Game)
-0xFE15, Sold Out Sign (Shop)
+0xFE10, Sold Out Sign 1
+0xFE11, Sold Out Sign 2
+0xFE12, Sold Out Sign 3
+0xFE13, Sold Out Sign 4
+0xFE14, Sold Out Sign 5
+0xFE15, Sold Out Sign 6
+0xFE16, Sold Out Sign 7
+0xFE17, Sold Out Sign 8
+0xFE18, Sold Out Sign 9
 0xFE1B, House Exit Flooring
 0xFE1D, Possible Bridge Location (/)
 0xFE1E, Possible Bridge Location (\)
